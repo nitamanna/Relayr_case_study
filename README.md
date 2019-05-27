@@ -37,6 +37,10 @@ We start minucube and access the application from a browser.
 Detail Implementation Steps below:
 #####################################
 
+Note: In this scenario, I have used AWS RDS which is more of a practical solution. This also can be done using mysql docker image. Also, for the DB credentials, we can use kubernetes secrect.yaml
+
+
+
 Step1. Download/clone/fork the below Github Repository
 #################################
 https://github.com/nitamanna/Relayr_case_study.git
